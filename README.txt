@@ -1,0 +1,1 @@
+EasyPark project structure placeholder.
